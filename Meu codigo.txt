@@ -1,2 +1,6 @@
 Ola meu nome e Marlon
+<<<<<<< HEAD
 ola sou marlinho lindo 
+=======
+ola eu sou uma nova linha 
+>>>>>>> 617fe4e87388cc163a0994be8c3c0fb0e5c94e33
